@@ -1,0 +1,14 @@
+{
+  "raw_count": 20,
+  "clean_count": 19,
+  "dropped_count": 1,
+  "drop_reasons": {
+    "desc_too_short": 1
+  },
+  "tag_stats": {
+    "before_clean": 101,
+    "after_clean": 101,
+    "duplicates_removed": 0
+  },
+  "pass_rate": 95.0
+}
